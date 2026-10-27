@@ -79,9 +79,9 @@ export default function App() {
             </View>
 
             <View style={styles.headerText}>
-              <Text style={styles.name}>Alex Rivera</Text>
+              <Text style={styles.name}>Alexis Antonio</Text>
               <Text style={styles.role}>Mobile Developer</Text>
-              <Text style={styles.location}>Lisbon, Portugal</Text>
+              <Text style={styles.location}>Jalisco, Mexico</Text>
             </View>
           </View>
 
